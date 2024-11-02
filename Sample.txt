@@ -1,1 +1,3 @@
 I'm practicing git and GitHub.
+Yes now I want to understand the diff command.
+The difference between work directory and staging, which is source(Staging) and destination(WD).
