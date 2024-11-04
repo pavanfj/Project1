@@ -1,2 +1,3 @@
 I've removed  all the existing text or data from it and replaced with new one. I've even changed the name of file.
 Let me now try to push this to remote repo branch which already have something in it. 
+I've added another line now, let me pull and check it again.
