@@ -1,3 +1,5 @@
 I've removed  all the existing text or data from it and replaced with new one. I've even changed the name of file.
 Let me now try to push this to remote repo branch which already have something in it. 
 I've added another line now, let me pull and check it again.
+I will not add the line which I've added in the local repo, I will just commit it here and pull in the same and check.
+If I see this or that in the updated file.
